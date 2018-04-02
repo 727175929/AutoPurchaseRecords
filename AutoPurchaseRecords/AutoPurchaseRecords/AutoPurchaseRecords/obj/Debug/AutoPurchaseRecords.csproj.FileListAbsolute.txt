@@ -1,0 +1,12 @@
+C:\Users\赵轩\Desktop\AutoPurchaseRecords\AutoPurchaseRecords\AutoPurchaseRecords\bin\Debug\AutoPurchaseRecords.exe.config
+C:\Users\赵轩\Desktop\AutoPurchaseRecords\AutoPurchaseRecords\AutoPurchaseRecords\bin\Debug\AutoPurchaseRecords.exe
+C:\Users\赵轩\Desktop\AutoPurchaseRecords\AutoPurchaseRecords\AutoPurchaseRecords\bin\Debug\AutoPurchaseRecords.pdb
+C:\Users\赵轩\Desktop\AutoPurchaseRecords\AutoPurchaseRecords\AutoPurchaseRecords\obj\Debug\AutoPurchaseRecords.csprojResolveAssemblyReference.cache
+C:\Users\赵轩\Desktop\AutoPurchaseRecords\AutoPurchaseRecords\AutoPurchaseRecords\obj\Debug\AutoPurchaseRecords.Form1.resources
+C:\Users\赵轩\Desktop\AutoPurchaseRecords\AutoPurchaseRecords\AutoPurchaseRecords\obj\Debug\AutoPurchaseRecords.Properties.Resources.resources
+C:\Users\赵轩\Desktop\AutoPurchaseRecords\AutoPurchaseRecords\AutoPurchaseRecords\obj\Debug\AutoPurchaseRecords.csproj.GenerateResource.Cache
+C:\Users\赵轩\Desktop\AutoPurchaseRecords\AutoPurchaseRecords\AutoPurchaseRecords\obj\Debug\AutoPurchaseRecords.exe
+C:\Users\赵轩\Desktop\AutoPurchaseRecords\AutoPurchaseRecords\AutoPurchaseRecords\obj\Debug\AutoPurchaseRecords.pdb
+C:\Users\赵轩\Desktop\仓库自动生成采购计划\采购计划完成的代码\AutoPurchaseRecords\AutoPurchaseRecords\AutoPurchaseRecords\bin\Debug\AutoPurchaseRecords.exe.config
+C:\Users\赵轩\Desktop\仓库自动生成采购计划\采购计划完成的代码\AutoPurchaseRecords\AutoPurchaseRecords\AutoPurchaseRecords\obj\Debug\AutoPurchaseRecords.exe
+C:\Users\赵轩\Desktop\仓库自动生成采购计划\采购计划完成的代码\AutoPurchaseRecords\AutoPurchaseRecords\AutoPurchaseRecords\obj\Debug\AutoPurchaseRecords.pdb
